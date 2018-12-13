@@ -7,7 +7,7 @@
 
 """Question Zero"""
 def grading_system():
-    marks = [23,4,5,6,64,90,67,98,45,23,67,78,89,-1,101]
+    marks = [23,4,5,6,64,90,67,98,45,23,67,78,89]
     list1,list2 = [],[]
     for num in marks:
         if num > 50:
